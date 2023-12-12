@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: predictability
+Version: 0.1.0
+Summary: Small project containing model definitions and utilities for
+Author-email: Floris van der Flier <floris.vanderflier@wur.nl>, Henning Redestig <henning.redestig@iff.com>
+License-File: LICENSE
+Requires-Dist: biopandas
+Requires-Dist: biopython
+Requires-Dist: biotite
+Requires-Dist: jupyter
+Requires-Dist: loguru
+Requires-Dist: matplotlib
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: plotnine
+Requires-Dist: prody
+Requires-Dist: scikit-learn
+Requires-Dist: scipy
+Requires-Dist: torch
+Requires-Dist: tqdm
+Requires-Dist: transformers
