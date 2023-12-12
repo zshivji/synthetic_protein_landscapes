@@ -1,0 +1,20 @@
+{
+    "data_config": {
+        "name": "101123TrpB_MeasuredOnly_ZS.csv",
+        "encoding": ["one-hot"],
+        "library": [159129],
+        "n_solutions": 1
+    },
+    "model_config": {
+        "name": ["boosting"]
+    },
+    "train_config": {
+        "seed": 42,
+        "n_samples": [384],
+        "n_splits": 5,
+        "n_subsets": 70,
+        "num_workers": 1,
+        "verbose": false,
+        "save_model": false
+    }
+}
