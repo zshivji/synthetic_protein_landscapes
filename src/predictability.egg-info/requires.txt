@@ -1,0 +1,15 @@
+biopandas
+biopython
+biotite
+jupyter
+loguru
+matplotlib
+numpy
+pandas
+plotnine
+prody
+scikit-learn
+scipy
+torch
+tqdm
+transformers
